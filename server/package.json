@@ -1,7 +1,7 @@
 {
-  "name": "bonziworld_server",
+  "name": "agentcord_server",
   "version": "1.2.2",
-  "description": "Server for the BonziWORLD chat client.",
+  "description": "Server for the Agentcord chat client.",
   "main": "index.js",
   "author": "Joseph Judge",
   "private": true,

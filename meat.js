@@ -114,10 +114,10 @@ function newRoom(rid, prefs) {
 }
 
 let userCommands = {
-    "godmode": function(word) {
-        let success = word == this.room.prefs.godword;
+    "ownermode": function(word) {
+        let success = word == this.room.prefs.ownerword;
         if (success) this.private.runlevel = 3;
-        log.info.log('debug', 'godmode', {
+        log.info.log('debug', 'ownermode', {
             guid: this.guid,
             success: success
         });

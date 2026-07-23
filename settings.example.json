@@ -3,7 +3,7 @@
 		"public": {
 			"char_limit": 2500,
 			"name_limit": 25,
-			"ownerword": superowner,
+			"ownerword": null,
 			"runlevel": {
 				"ownermode": 0,
 				"youtube": 0,
@@ -41,7 +41,7 @@
 		"private": {
 			"char_limit": 5000,
 			"name_limit": 25,
-			"ownerword": superowner,
+			"ownerword": null,
 			"runlevel": {
 				"ownermode": 0,
 				"youtube": 0,
